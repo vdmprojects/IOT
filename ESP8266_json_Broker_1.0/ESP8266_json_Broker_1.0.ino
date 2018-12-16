@@ -1,4 +1,4 @@
-//Json broker setup for use with ubidots.com service
+//Json broker for use with ubidots.com service
 //picks up json sentences from HTTP enabled devices and sends them to ubidots
 
 //
