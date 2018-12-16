@@ -14,13 +14,8 @@
 #include "SH1106Wire.h"
 
 
-
-//#define WIFI_AP "InternetCLARO3810"
-//#define WIFI_PASSWORD "6ADAB299"
-//#define WIFI_AP "VISTADELMAR"
-//#define WIFI_PASSWORD "CorporaK"
-#define WIFI_AP "VDM2.4"
-#define WIFI_PASSWORD "corporaklepto"
+#define WIFI_AP "SSID"
+#define WIFI_PASSWORD "WIFI PASSWORD"
 
 
 // Pins

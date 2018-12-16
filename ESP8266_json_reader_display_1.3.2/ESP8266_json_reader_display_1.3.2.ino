@@ -16,8 +16,8 @@
 //#include "SH1106Wire.h"
 
 
-#define WIFI_AP "VDM2.4N"
-#define WIFI_PASSWORD "corporakleptocracy"
+#define WIFI_AP "SSID"
+#define WIFI_PASSWORD "WIFI PASSWORD"
 
 
 // Pins
